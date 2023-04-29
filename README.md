@@ -2,7 +2,7 @@
 
 • Curso: K1051
 
-• Año de cursada: 2023
+• Año: 2023
 
 • Legajo: 1772296
 
