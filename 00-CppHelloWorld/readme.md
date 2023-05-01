@@ -6,4 +6,4 @@
 + 177.229-6
 + Mehlberg Prado
 + Ingrid
-+ El compilador utilizado es MinGW versión 6.3.0
++ El compilador utilizado es G++ versión 6.3.0
