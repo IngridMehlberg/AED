@@ -7,3 +7,4 @@
 + Mehlberg Prado
 + Ingrid
 + El compilador utilizado es G++ versión 6.3.0
++ Compila en la versión C++ 14
